@@ -3,7 +3,7 @@
 A production-ready Oracle APEX plug-in that transforms any image region into a professional, interactive photo viewer.
 
 ## Table of Contents
-- [Demo](#demo)
+- [Preview](#Preview)
 - [Features](#features)
 - [Requirements](#requirements)
 - [Installation](#installation)
@@ -12,9 +12,11 @@ A production-ready Oracle APEX plug-in that transforms any image region into a p
 - [About the Author](#about-the-author)
 - [License](#license)
 
-## Demo
-<!-- GIF demo will be added here -->
-*Demo coming soon*
+## Preview
+<!-- GIF Preview will be added here -->
+<img width="436" height="428" alt="image" src="https://github.com/user-attachments/assets/1ba1d3bd-46ff-4910-ac20-8b67f0f34ae2" />
+<img width="785" height="383" alt="image" src="https://github.com/user-attachments/assets/de4cdfc1-1a2a-4195-81f6-0c74a12ecca3" />
+
 
 ## Features
 - Coordinate-aware zooming toward the mouse cursor position (like Google Maps)
