@@ -16,6 +16,8 @@ A production-ready Oracle APEX plug-in that transforms any image region into a p
 <!-- GIF Preview will be added here -->
 <img width="436" height="428" alt="image" src="https://github.com/user-attachments/assets/1ba1d3bd-46ff-4910-ac20-8b67f0f34ae2" />
 <img width="785" height="383" alt="image" src="https://github.com/user-attachments/assets/de4cdfc1-1a2a-4195-81f6-0c74a12ecca3" />
+![apex_zoom_plugin](https://github.com/user-attachments/assets/262201eb-aca8-42a9-9aac-b0dafe4c1c8b)
+
 
 
 ## Features
